@@ -253,6 +253,7 @@ footer{
 footer .flex-container{
     justify-content: space-between;
     color: white;
+    font-size: 13px;
 }
 
 /* mobile */
@@ -301,3 +302,5 @@ footer .flex-container{
          margin-bottom: 20px;
     }
 }
+
+/* ffe349, 38e1d7, f286f8 */ 
